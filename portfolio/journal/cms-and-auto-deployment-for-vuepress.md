@@ -1,8 +1,8 @@
 ---
 title: Content management and auto deployment for vuepress
-date: 2018-08-09 17:49:28 +0000
+date: 2018-08-09T17:49:28.000+00:00
 excerpt: This works like expected, this text is only visible on the front page where
-  all the journal posts are listed
+  all the journal posts are listed  sdfsdf
 
 ---
 # Content management and auto deployment for Vuepress
@@ -37,4 +37,4 @@ Now, push it up to your remote git repository.
 
 Well, not much to do here really, this theme is pre-configured and works out of the box with Forestry. Create an account at [Forestry](https://forestry.io "Forestry") and import your repository.
 
-That's it, that's all. Enjoy your new site!
+That's it, that's all. Enjoy your new site!rr
